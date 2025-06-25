@@ -1,5 +1,5 @@
-#baseURL: "https://infrasys-ai.github.io/"
-baseURL: "http://localhost:1313/"
+baseURL: "https://infrasys-ai.github.io/"
+# baseURL: "http://localhost:1313/"
 title: InfraSystem-AI
 pagination.pagerSize: 5
 theme: PaperMod

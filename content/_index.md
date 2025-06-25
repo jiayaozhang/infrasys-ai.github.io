@@ -5,8 +5,8 @@ header:
     # background: "linear-gradient(to left, #0c3483 10%, #a2b6df 100%, #5bc0de 100%, #a2b6df 100%);"
     # background: "linear-gradient(to left, #0a4d8c, #3f8ab9, #5bc0de, #a2dfff);"
     # background_image: "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/assets/blog/background.webp"
-    background_image: "/image/galaxy.jpg"
-    # background_image: "https://cdn.jsdelivr.net/gh/Infrasys-AI/infrasys-ai.github.io@main/static/img/galaxy.webp"
+    # background_image: "/image/galaxy.jpg"
+    background_image: "https://cdn.jsdelivr.net/gh/Infrasys-AI/infrasys-ai.github.io@main/static/img/galaxy.webp"
     gradient: true
     blur: true
 description: Next Generation Infrastructure
